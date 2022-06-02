@@ -1,0 +1,9 @@
+//ola
+
+def var = 4
+def var2 = 1
+
+
+
+print((var != var2)+ 'pi')
+
